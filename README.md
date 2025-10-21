@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I'm a Computer Engineering student passionate about programming and technology (and also math and physics).
-![Coding](tumblr_outwxnanpp1u79o2lo1_1280.gif)
+![Coding](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif)
 
 ## 💻 Tech Stack
 - **Main Language:** Python 🐍
