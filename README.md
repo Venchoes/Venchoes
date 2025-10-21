@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I'm a Computer Engineering student passionate about programming and technology (and also math and physics).
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding](tumblr_outwxnanpp1u79o2lo1_1280.gif)
 
 ## 💻 Tech Stack
 - **Main Language:** Python 🐍
@@ -17,6 +17,10 @@ I'm a Computer Engineering student passionate about programming and technology (
 
 ## 📊 GitHub Stats
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venchoes&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venchoes&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venchoes&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 - Email: fcla1801@gmail.com
