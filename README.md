@@ -18,8 +18,6 @@ I'm a Computer Engineering student passionate about programming and technology (
 ## 📊 GitHub Stats
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venchoes&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venchoes&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venchoes&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
